@@ -29,34 +29,34 @@ At each step, save and commit your work in GitHub Desktop.
 
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
-**Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+**Your Movie Choice:**  My own movie
+- **Movie Title:**  The Secret Locket
+- **Why I chose this movie:**  I chose this movie because after writing the story that goes along with it, I really enjoyed the story and I am so excited to make a movie poster for it!
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:**  Luxury and beauty
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
+- **Essential element:**  A view of Cora's old and new life, perhaps showing her old school vs her new royal school, or her old small house vs her new giant castle, wearing frilly dresses, and her baby sister Leonore must be seen because Cora is afraid of her growing up in only luxery.
 - **Why this element:**  
 
 **What NOT to Include:**  
-What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  I don't want there to be any conflicting colors, I want the poster to be very beautiful and elegant, perfect for a princess,
+- **Avoid:**  Conflicting colors,
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):**  Light pink, light purple, light blue, light yellow, white frilly dresses,
+- **Accent color(s):**  pastel pink,
+- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  light and beautiful,
 
 **Composition:**  
-- [ ] Close-up (face/detail)  
-- [ ] Wide shot (landscape/setting)  
-- [ ] Medium shot (full figure)  
-- [ ] Object/symbol centered  
-- [ ] Character collage  
+- [ ] Close-up (face/detail)  Cora has a beautiful face of a 16 year old princess, make her look like the face of Rapuzel and the hair of medium length, with blond curls and big blue yes,
+- [ ] Wide shot (landscape/setting)  A line split between a castle, and Cora and her family in fancy clothes (and Cora wearing a beautiful humungus frilly light pink dress, and then on the left a picture of her family in there old small house, in regular clothes, seeminly more happy because in the castle picture they seem a bit controlled by the photography
+- [ ] Medium shot (full figure)  The same family on both sides of the poster,
+- [ ] Object/symbol centered  The secret locket, in the shape of a heart, with a baby picture of Cora's grandmother and a baby picture of Cora,
+- [ ] Character collage  The whole family on both sides.
 
 - **Focal point description:**  
 
