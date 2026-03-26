@@ -138,14 +138,14 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 ## Step 5: Reflection
 *(Commit message: "Completed reflection")*
 
-**How did your vision evolve?**  
+**How did your vision evolve?**  It evolved with minor mistakes, that ended up creating an amazing poster.
 Compare your original creative brief to your final poster. What changed? What stayed the same?  
 
 
-**What decision are you most proud of that the AI didn't make for you?**  
+**What decision are you most proud of that the AI didn't make for you?**  I'm proud of the idea of having the locket surround the title of "the Secret Locket."
 
 
-**What would you do differently next time?**  
+**What would you do differently next time?**  I would be more specific about having the same people on both sides of the poster,
 
 
 ---
