@@ -70,16 +70,20 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 **Attempt 1:**  
 - **My prompt:**  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+I wrote a story yesterday about a girl named Cora who lives a regular life in her small house and family (including her Mom, Dad, and baby sister Leanna, and puppy), when one day she finds out that her Grandmother who passed was the secret queen. Her family then moves to the castle and replaces their old life with a ginormous castle and elegant clothes (and Cora wears a pastel pink frilly princess dress). Their life at the castle seems very posed and Cora asks her parents to go back to their old life because she doesn't want her baby sister Leanna to grow up like that. They go back and live their normal life again, only returning to the kingdom sometimes. However, Cora still keeps her Grandmother's secret locket, which is in the shape of a heart, and on one side has a baby picture of the Queen (Cora's grandmother) and on the other is a picture of baby Cora, clearly sharing resemblence with one another. Please create a movie poster to this story for me, which looks like a very beautiful princess poster. Include the poster to be split down the middle, on the left side have a picture of the family in regular clothes, clearly happy in front of their small house, and then on the right side have the same family in front of the beautiful castle in elegant royal clothes, they should be smiling in the castle photo as well, however they should also look a little bit posed. In the middle please including the gold locket, taking center stage and wrapped around the title "The Secret Locket" by Kelsey Maletis. Please have the whole poster have very many princess vibes and pastel colors (mainly pastel pink), and have Cora and her family look like disney princessess and princes. ALSO in the half photo of the poster have the puppy look very elegant as well with bows in her hair.
+
+- **What worked:**  It looked really nice, and the people's faces looked like I wanted them to.
+- **What didn't work:**  Their hair was brown, and they forgot Cora's mom and baby sister.
+- **What I'll change for next attempt:**  I will make sure to be specific abut the blond hair and having the family in both pictures.
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:** 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+THAT is so good! Thank you! Could you please try again, however this time make sure that Cora has blond hair with princess curls, and in the first picture have her be wearing a regular dress, not a frilly princess dress at all. Also, make sure that the whole family (including the Mom, Dad, Leanna, and Cora, and puppy) are included in both pictures, just wearing differen't clothes. Thank you! 
+
+- **What worked:**  It didn't toltally work on this time.
+- **What didn't work:**  Gemini said that it didn't quite yet know how to edit images.
+- **What I'll change for next attempt:**  I will make sure to explain the poster again, instead of just asking to edit the images.
 
 ---
 
@@ -153,9 +157,9 @@ Compare your original creative brief to your final poster. What changed? What st
 ## Final Checklist
 
 Before submitting, make sure your repo contains:
-- [ ] This completed `movie-poster-project.md` file  
-- [ ] Your final poster image (`final-poster.jpg` or `final-poster.png`)  
-- [ ] At least 5 commits showing your progress  
+- [check ] This completed `movie-poster-project.md` file  
+- [check ] Your final poster image (`final-poster.jpg` or `final-poster.png`)  
+- [check ] At least 5 commits showing your progress  
 
 ---
 
