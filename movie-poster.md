@@ -89,19 +89,26 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:** 
+I wrote a story yesterday about a girl named Cora who lives a regular life in her small house and family (including her Mom, Dad, and baby sister Leanna, and puppy), when one day she finds out that her Grandmother who passed was the secret queen. Her family then moves to the castle and replaces their old life with a ginormous castle and elegant clothes (and Cora wears a pastel pink frilly princess dress). Their life at the castle seems very posed and Cora asks her parents to go back to their old life because she doesn't want her baby sister Leanna to grow up like that. They go back and live their normal life again, only returning to the kingdom sometimes. However, Cora still keeps her Grandmother's secret locket, which is in the shape of a heart, and on one side has a baby picture of the Queen (Cora's grandmother) and on the other is a picture of baby Cora, clearly sharing resemblence with one another. Please create a movie poster to this story for me, which looks like a very beautiful princess poster. Include the poster to be split down the middle, on the left side have a picture of the family in regular clothes, clearly happy in front of their small house, and then on the right side have the same family in front of the beautiful castle in elegant royal clothes, they should be smiling in the castle photo as well, however they should also look a little bit posed. In the middle please including the gold locket, taking center stage and wrapped around the title "The Secret Locket" by Kelsey Maletis. Please have the whole poster have very many princess vibes and pastel colors (mainly pastel pink), and have Cora and her family look like disney princessess and princes. ALSO in the half photo of the poster have the puppy look very elegant as well with bows in her hair. Mmake sure that Cora has blond hair with princess curls, and in the first picture have her be wearing a regular dress, not a frilly princess dress at all. Also, make sure that the whole family (including the Mom, Dad, Leanna, and Cora, and puppy) are included in both pictures, just wearing differen't clothes. Thank you! Also, make sure that the entire family is included in both sides of the poster. Please really make sure that all 5 members of the family are present in both the sides of the poster, and have Cora be a little bit shorter than her parents, holding the puppy in both photos. 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  The colors looked great, and the pastel looked amazing
+- **What didn't work:**  It worked great, except the family only had half on one side and half on the other side,
+- **What I'll change for next attempt:**  Make sure that the family is shown on both sides.
 
 **Attempt 4:**  
 - **My prompt:**  
+You said
 
-- **What worked:**  
-- **What didn't work:**  
+I wrote a story yesterday about a girl named Cora who lives a regular life in her small house and family (including her Mom, Dad, and baby sister Leanna, and puppy), when one day she finds out that her Grandmother who passed was the secret queen. Her family then moves to the castle and replaces their old life with a ginormous castle and elegant clothes (and Cora wears a pastel pink frilly princess dress). Their life at the castle seems very posed and Cora asks her parents to go back to their old life because she doesn't want her baby sister Leanna to grow up like that. They go back and live their normal life again, only returning to the kingdom sometimes. However, Cora still keeps her Grandmother's secret locket, which is in the shape of a heart, and on one side has a baby picture of the Queen (Cora's grandmother) and on the other is a picture of baby Cora, clearly sharing resemblence with one another. Please create a movie poster to this story for me, which looks like a very beautiful princess poster. Include the poster to be split down the middle, on the left side have a picture of the family in regular clothes, clearly happy in front of their small house, and then on the right side have the same family in front of the beautiful castle in elegant royal clothes, they should be smiling in the castle photo as well, however they should also look a little bit posed. In the middle please including the gold locket, taking center stage and wrapped around the title "The Secret Locket" by Kelsey Maletis. Please have the whole poster have very many princess vibes and pastel colors (mainly pastel pink), and have Cora and her family look like disney princessess and princes. ALSO in the half photo of the poster have the puppy look very elegant as well with bows in her hair. Mmake sure that Cora has blond hair with princess curls, and in the first picture have her be wearing a regular dress, not a frilly princess dress at all. Also, make sure that the whole family (including the Mom, Dad, Leanna, and Cora, and puppy) are included in both pictures, just wearing differen't clothes. Thank you! Also, make sure that the entire family is included in both sides of the poster. Please really make sure that all 5 members of the family are present in both the sides of the poster, and have Cora be a little bit shorter than her parents, holding the puppy in both photos.
 
-**Final AI Image Selected:** (Which attempt? Why?)  
+
+- **What worked:**  The poster looked exactly as I envisioned it, just a bit differently.
+- **What didn't work:**  Cora had brown hair, however I wanted her to have blond hair in the poster,
+
+**Final AI Image Selected:** (Which attempt? Why?)
+
+4 - it was perfect.  
 
 ---
 
