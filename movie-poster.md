@@ -110,12 +110,12 @@ Keep refining. Try at least two more meaningfully different directions.
 
 Export your best AI generation and open it in Photoshop. You must make at least TWO intentional modifications. The AI gave you raw material—now make it yours.
 
-**Modification Ideas:**
-- Crop or reframe the image  
-- Adjust colors, contrast, or brightness  
-- Add the movie title (typography matters!)  
+**Modification Ideas:** Make sure the family is included in both photos, exactly the entire family in both,
+- Crop or reframe the image  I kept it the same,
+- Adjust colors, contrast, or brightness  More pastel colors, and have the puppy have pink bows,
+- Add the movie title (typography matters!)  The Secret Locket,
 - Add a tagline  
-- Combine elements from multiple AI generations  
+- Combine elements from multiple AI generations  I wasn't able to, because gemini doesn't quite yet know how to edit imaes,
 - Remove unwanted elements  
 
 **Your Modifications:**  
